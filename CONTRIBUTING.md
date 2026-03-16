@@ -40,15 +40,18 @@ This is the core of your contribution. The `THEME.md` file is a **structured des
 ## Color Palette
 
 ### Backgrounds
+
 - Primary background: `#hexcode` — description
 - Secondary background: `#hexcode` — description
 - Card background: `#hexcode` — description
 
 ### Accent Colors
+
 - Primary accent: `#hexcode` — usage
 - Secondary accent: `#hexcode` — usage
 
 ### Text Colors
+
 - Primary text: `#hexcode` — usage
 - Secondary text: `#hexcode` — usage
 - Muted text: `#hexcode` — usage
@@ -63,10 +66,12 @@ This is the core of your contribution. The `THEME.md` file is a **structured des
 ## Buttons
 
 ### Primary Button
+
 - Background, text color, border-radius, padding
 - Hover and active states
 
 ### Secondary / Outline Button
+
 - Background, border, text color, border-radius
 - Hover and active states
 

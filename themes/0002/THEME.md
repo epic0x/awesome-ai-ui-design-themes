@@ -5,23 +5,27 @@
 ## Color Palette
 
 ### Backgrounds
+
 - Primary background: `#F4F0FA` — very light lavender-grey page canvas
 - Secondary background: `#FFFFFF` — pure white for cards and content panels
 - Tertiary background: `#EDE7F6` — light violet tint for highlighted sections or alternating rows
 
 ### Accent Colors
+
 - Primary accent: `#7C3AED` — rich violet/purple for buttons, links, active states
 - Primary accent hover: `#6D28D9` — darker violet on hover
 - Secondary accent: `#A78BFA` — lighter violet for tags, badges, secondary highlights
 - Accent background: `rgba(124, 58, 237, 0.08)` — very faint violet for hover backgrounds and selected states
 
 ### Text Colors
+
 - Primary text: `#1E1B4B` — deep indigo-black for headings and primary content
 - Secondary text: `#4B5563` — neutral dark grey for body text
 - Muted text: `#9CA3AF` — light grey for placeholders, hints, timestamps
 - Accent text: `#7C3AED` — violet for links and highlighted text
 
 ### Status & Feedback Colors
+
 - Star rating: `#F59E0B` — warm amber
 - Success: `#10B981`
 - Error: `#EF4444`
@@ -43,6 +47,7 @@
 ## Buttons
 
 ### Primary Button
+
 - Background: `#7C3AED`
 - Text color: `#FFFFFF`
 - Font weight: 600
@@ -53,6 +58,7 @@
 - Active: `transform: scale(0.98)`
 
 ### Secondary / Outline Button
+
 - Background: `#FFFFFF`
 - Border: `1.5px solid #D1D5DB`
 - Text color: `#4B5563`
@@ -60,6 +66,7 @@
 - Hover: border color `#7C3AED`, text color `#7C3AED`, background `rgba(124, 58, 237, 0.04)`
 
 ### Small Action Button
+
 - Background: `rgba(124, 58, 237, 0.08)`
 - Text color: `#7C3AED`
 - Font weight: 500

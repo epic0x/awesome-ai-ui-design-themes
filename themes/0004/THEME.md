@@ -5,12 +5,14 @@
 ## Color Palette
 
 ### Backgrounds
+
 - Primary background: `#F3F0F9` — very light lavender-grey page canvas
 - Header/hero background: `linear-gradient(135deg, #A78BFA, #C084FC)` — soft purple gradient for top sections
 - Card background: `#FFFFFF` — clean white for content cards
 - Surface background: `rgba(167, 139, 250, 0.08)` — faint lavender tint for subtle sections
 
 ### Accent Colors
+
 - Primary accent: `#8B5CF6` — medium purple for buttons, icons, and active states
 - Secondary accent: `#A78BFA` — lighter purple for secondary elements and gradient endpoints
 - Accent gradient: `linear-gradient(135deg, #A78BFA, #C084FC)` — soft lavender gradient
@@ -18,6 +20,7 @@
 - Highlight green: `#10B981` — used sparingly for success indicators and status dots
 
 ### Text Colors
+
 - Primary text: `#1F2937` — dark charcoal for headings on white backgrounds
 - Primary text on purple: `#FFFFFF` — white text on purple/gradient backgrounds
 - Secondary text: `#6B7280` — medium grey for body text and descriptions
@@ -26,6 +29,7 @@
 - Price/highlight text: `#8B5CF6` — purple for prices and key data
 
 ### Status & Feedback Colors
+
 - Success: `#10B981`
 - Error: `#EF4444`
 - Warning: `#F59E0B`
@@ -45,6 +49,7 @@
 ## Buttons
 
 ### Primary Button (on white bg)
+
 - Background: `linear-gradient(135deg, #A78BFA, #8B5CF6)`
 - Text color: `#FFFFFF`
 - Font weight: 600
@@ -56,6 +61,7 @@
 - Active: `transform: scale(0.97)`
 
 ### Secondary / Outline Button (on purple bg)
+
 - Background: `#FFFFFF`
 - Text color: `#7C3AED`
 - Font weight: 600
@@ -65,6 +71,7 @@
 - Hover: `background: #F5F3FF`
 
 ### Small Action Button
+
 - Background: `#FFFFFF`
 - Border: `1.5px solid #8B5CF6`
 - Text color: `#8B5CF6`

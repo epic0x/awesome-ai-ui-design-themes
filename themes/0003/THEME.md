@@ -5,12 +5,14 @@
 ## Color Palette
 
 ### Backgrounds
+
 - Primary background: `#0A0A1A` — near-black with a subtle blue undertone
 - Secondary background: `#12122A` — dark indigo for sections and content areas
 - Card background: `rgba(25, 25, 60, 0.7)` — semi-transparent dark purple with backdrop blur (glassmorphism)
 - Surface background: `#1A1A3E` — solid dark purple for elevated surfaces
 
 ### Accent Colors
+
 - Primary accent: `#8B5CF6` — vivid violet for primary interactive elements
 - Secondary accent: `#6366F1` — indigo-blue for secondary interactive elements
 - CTA accent: `#EF4444` — coral-red for call-to-action buttons (e.g., "Enter Now")
@@ -19,12 +21,14 @@
 - Gradient background glow: `radial-gradient(ellipse at 20% 50%, rgba(139, 92, 246, 0.15), transparent 60%)` — soft purple ambient glow on page
 
 ### Text Colors
+
 - Primary text: `#FFFFFF` — white for headings and key content
 - Secondary text: `#C4B5FD` — light lavender for body text
 - Muted text: `#6B7280` — dimmed grey for placeholders and captions
 - Accent text: `#C084FC` — light purple for links and highlights
 
 ### Status & Feedback Colors
+
 - Star rating: `#A78BFA` — soft violet stars
 - Success: `#10B981`
 - Error: `#EF4444`
@@ -44,6 +48,7 @@
 ## Buttons
 
 ### Primary CTA Button
+
 - Background: `#EF4444`
 - Text color: `#FFFFFF`
 - Font weight: 700
@@ -54,6 +59,7 @@
 - Active: `transform: scale(0.97)`
 
 ### Secondary / Ghost Button
+
 - Background: `transparent`
 - Border: `1.5px solid rgba(255, 255, 255, 0.2)`
 - Text color: `#FFFFFF`
@@ -62,6 +68,7 @@
 - Hover: border color `#8B5CF6`, background `rgba(139, 92, 246, 0.1)`
 
 ### Accent Button
+
 - Background: `linear-gradient(135deg, #8B5CF6, #6366F1)`
 - Text color: `#FFFFFF`
 - Border radius: `12px`

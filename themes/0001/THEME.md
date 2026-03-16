@@ -5,24 +5,28 @@
 ## Color Palette
 
 ### Backgrounds
+
 - Primary background: `#0B1726` — deep navy, used as the main canvas
 - Secondary background: `#111D2E` — slightly lighter navy for content sections
 - Card background: `#142236` — dark blue-grey with subtle transparency for card panels
 - Overlay background: `rgba(11, 23, 38, 0.85)` — semi-transparent dark overlay on images
 
 ### Accent Colors
+
 - Primary accent: `#2ECC71` — vibrant green for CTAs, buttons, and highlights
 - Primary accent gradient: `linear-gradient(135deg, #2ECC71, #27AE60)` — green gradient for primary buttons
 - Secondary accent: `#1ABC9C` — teal-green for secondary interactive elements
 - Link accent: `#2ECC71` — green for hyperlinks and tappable text
 
 ### Text Colors
+
 - Primary text: `#FFFFFF` — pure white for headings and primary content
 - Secondary text: `#B0BEC5` — soft blue-grey for body text and descriptions
 - Muted text: `#607D8B` — dimmed blue-grey for placeholders, labels, hints
 - Accent text: `#2ECC71` — green for links, highlights, and call-to-action text
 
 ### Status & Feedback Colors
+
 - Star rating: `#F39C12` — warm amber/orange for star ratings
 - Success: `#2ECC71`
 - Error: `#E74C3C`
@@ -41,6 +45,7 @@
 ## Buttons
 
 ### Primary Button
+
 - Background: `linear-gradient(135deg, #2ECC71, #27AE60)`
 - Text color: `#FFFFFF`
 - Font weight: 700
@@ -52,6 +57,7 @@
 - Active: scale down slightly (`transform: scale(0.97)`)
 
 ### Secondary / Outline Button
+
 - Background: `transparent`
 - Border: `1.5px solid #2ECC71`
 - Text color: `#2ECC71`
@@ -59,6 +65,7 @@
 - Hover: fill with `rgba(46, 204, 113, 0.1)`, brighten border
 
 ### Text Button / Link
+
 - Color: `#2ECC71`
 - Font weight: 600
 - Text decoration: underline on hover
