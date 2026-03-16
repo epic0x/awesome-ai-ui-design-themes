@@ -2,9 +2,16 @@
 
 UI Design Themes for Claude Code, Codex, Cursor, Copilot, Opencode, and more.
 
+## How to Use
+
 Drop a `THEME.md` into your project root and let your AI coding agent build beautiful, consistent UI.
 
----
+1. Browse the themes above and pick one you like
+2. Go to the theme folder and download the `THEME.md` file
+3. Place `THEME.md` in the **root** of your application project
+4. Ask your AI coding agent to follow the design guidelines in `THEME.md` when building UI
+
+Works with **Claude Code**, **Codex**, **Cursor**, **GitHub Copilot**, **Opencode**, and any AI agent that reads project files.
 
 ## Themes
 
@@ -34,19 +41,6 @@ Drop a `THEME.md` into your project root and let your AI coding agent build beau
     </td>
   </tr>
 </table>
-
----
-
-## How to Use
-
-1. Browse the themes above and pick one you like
-2. Go to the theme folder and download the `THEME.md` file
-3. Place `THEME.md` in the **root** of your application project
-4. Ask your AI coding agent to follow the design guidelines in `THEME.md` when building UI
-
-Works with **Claude Code**, **Codex**, **Cursor**, **GitHub Copilot**, **Opencode**, and any AI agent that reads project files.
-
----
 
 ## Contributing
 
